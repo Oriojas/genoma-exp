@@ -1,12 +1,12 @@
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/)
 
+## En este archivo se dejan los créditos originales del archivo principal
+
 [Grayscale](https://startbootstrap.com/theme/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
-[![Grayscale Preview](https://assets.startbootstrap.com/img/screenshots/themes/grayscale.png)](https://startbootstrap.github.io/startbootstrap-grayscale/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-grayscale/)**
+**[View Live Preview](https://www.genoma.xyz/)**
 
 ## Status
 
